@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0273b4f11cccae45",
+    "type": "split",
+    "children": [
+      {
+        "id": "170a211faeb02957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41dfce347dcb0e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caa98a6148a00bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "022f4ab54298527b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8cde27abcc0712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6355d3fd0f2f6c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4759a30bde709546",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e773e86c477afe10",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb95be840a99f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "043a05c303a2f756",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8efec96eb32f7c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "1fa355834bfb9415",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "220706be2fef02ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Notion": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d41dfce347dcb0e3",
+  "lastOpenFiles": [
+    "BÁSICO A2/Gramática/Present Perfect.md",
+    "BÁSICO A2/Gramática/Present Continuous for the Future.md",
+    "BÁSICO A2/Vocabulário/Transport.md",
+    "BÁSICO A2/Gramática/Have to vs. Need to vs. Must.md",
+    "BÁSICO A2/Gramática/Can, could for requests.md",
+    "BÁSICO A2/Gramática/Adjectives.md",
+    "BÁSICO A2/Vocabulário/Work and jobs.md",
+    "BÁSICO A2/Vocabulário/Basic suffixes.md",
+    "BÁSICO A2/Gramática/Should for advice.md",
+    "BÁSICO A2/Gramática/Present Continuous for temporary situations and things happening now.md",
+    "BÁSICO A2/Gramática/Too, not enough.md",
+    "BÁSICO A2/Tópicos/Talking about intentions (part 2).md",
+    "BÁSICO A2/Tópicos/Talking about intentions (part 1).md",
+    "BÁSICO A2/Vocabulário/Present and childhood abilities.md",
+    "BÁSICO A2/Vocabulário/Appearance.md",
+    "BÁSICO A2/Gramática/Countable & uncountable nouns.md",
+    "BÁSICO A2/Gramática/Adverbs of frequency and manner.md",
+    "BÁSICO A2/Gramática/Comparative and superlative.md",
+    "BÁSICO A2/Gramática/Adverbs And Adjectives As Modifiers.md",
+    "BÁSICO A2/Vocabulário/Personality.md",
+    "BÁSICO A2/Vocabulário/Daily routines.md",
+    "BÁSICO A2/Tópicos/Justifying opinions.md",
+    "BÁSICO A2/Vocabulário/Prices.md",
+    "BÁSICO A2/Vocabulário/Clothing and shopping.md",
+    "BÁSICO A2/Tópicos/Giving opinions.md",
+    "BÁSICO A2/Vocabulário/Food and meals.md",
+    "BÁSICO A2/img",
+    "BÁSICO A2/img/Pasted image 20250702072842.png",
+    "BÁSICO A2/Tópicos",
+    "BÁSICO A2/Vocabulário",
+    "BÁSICO A2/Gramática",
+    "INICIANTE A1/img/Pasted image 20250520070736.png",
+    "INICIANTE A1/img/Pasted image 20250520070701.png",
+    "INICIANTE A1/img/Pasted image 20250506070906.png",
+    "INICIANTE A1/img/Pasted image 20250506070010.png",
+    "INICIANTE A1/img/Pasted image 20250430070102.png",
+    "Sem título.canvas",
+    "INICIANTE A1/Apostilas/Tempos-verbais-Presente.pdf",
+    "INICIANTE A1/Apostilas/Cronograma-Inglês.pdf",
+    "INICIANTE A1/Apostilas/Pronomes.pdf",
+    "INICIANTE A1/Apostilas/Preposicoes.pdf",
+    "INICIANTE A1/Apostilas/Tempos-Verbais-Passado.pdf",
+    "INICIANTE A1/Gramática/Irregulars"
+  ]
+}

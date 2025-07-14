@@ -1,1 +1,0 @@
-// In English usually it's not polite to only say "yes" or "no" just to sound more polite.
